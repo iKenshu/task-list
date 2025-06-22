@@ -1,0 +1,14 @@
+.env
+venv/
+.vscode
+*.pyc
+*.pyo
+*.py.class
+.coverage
+
+# Directories
+*/__pycache__
+
+# Ignore files
+.DS_Store
+test.db

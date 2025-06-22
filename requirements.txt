@@ -1,0 +1,6 @@
+fastapi
+pydantic
+pytest
+sqlmodel
+flake8
+black
