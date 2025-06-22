@@ -25,4 +25,6 @@
 
 Se priorizó construir una base sólida, limpia y extensible. Si bien no se implementaron las funcionalidades bonus, la estructura está preparada para escalar fácilmente y soportarlas en el futuro. El enfoque modular permite pruebas aisladas, cambios seguros y crecimiento ordenado del proyecto.
 
+Por causas de fuerza mayor no me hubo tiempo para implementar las funcionalidades bonus pero creo que con un poco de tiempo podríamos hacerlo.
+
 ---
