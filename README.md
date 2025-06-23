@@ -13,7 +13,7 @@ This is a Task List API built with FastAPI and PostgreSQL. The application allow
 
    ```bash
    git clone git@github.com:iKenshu/task-list.git
-   cd todolist
+   cd task-list
    ```
 
 2. Create a virtual environment and activate it:
